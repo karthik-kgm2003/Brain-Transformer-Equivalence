@@ -4,7 +4,6 @@
 
 **Do large language models think like brains? We tested five architectures — and found that sparse features bring us 4× closer.**
 
-[![Paper](https://img.shields.io/badge/Working_Paper-arXiv_Style-red?style=for-the-badge&logo=arxiv)](./paper/brain_transformer_equivalence.pdf)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![Dataset](https://img.shields.io/badge/Dataset-ZuCo_NR_(OSF)-green?style=for-the-badge&logo=osf)](https://osf.io/2abup)
 [![Kaggle](https://img.shields.io/badge/Run_on-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/)
